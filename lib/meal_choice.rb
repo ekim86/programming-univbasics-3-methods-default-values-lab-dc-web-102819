@@ -7,6 +7,6 @@ end
 
 meal_choice("broccoli", "macaroni")
 
-meal_choice("meat", "broccoli", "macaroni")
+meal_choice("broccoli", "macaroni")
 
 meal_choice("tofu", "broccoli",  "macaroni")
